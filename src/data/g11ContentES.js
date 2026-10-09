@@ -71,7 +71,7 @@ export const formationsES = [
     "recommendation": "Ruta de entrada obligatoria para fundamentar conceptos de IA, uso de Canvas AI y productividad con asistentes.",
     "color": "from-slate-50 to-slate-100",
     "category": "Generales",
-    "link": "https://app.aluracursos.com/formaciones"
+    "link": "https://app.aluracursos.com/formacao-mindset-y-estrategia-g11-one"
   },
   {
     "id": "g2_dados",
@@ -147,7 +147,7 @@ export const formationsES = [
     "recommendation": "Esencial para transformar datos en decisiones ejecutivas y liderar la transformación digital con IA.",
     "color": "from-blue-50 to-indigo-100",
     "category": "Generales",
-    "link": "https://app.aluracursos.com/formaciones"
+    "link": "https://app.aluracursos.com/formacao-datos-para-negocios-g11-one"
   },
   {
     "id": "g3_governanca",
@@ -207,7 +207,7 @@ export const formationsES = [
     "recommendation": "Crucial para estructurar la gobernanza de IA y garantizar el cumplimiento normativo en la organización.",
     "color": "from-purple-50 to-slate-100",
     "category": "Generales",
-    "link": "https://app.aluracursos.com/formaciones"
+    "link": "https://app.aluracursos.com/formacao-gobernanza-riesgo-y-etica-g11-one"
   },
   {
     "id": "t1_vendas",
@@ -284,7 +284,7 @@ export const formationsES = [
     "recommendation": "Recomendada para acelerar el pipeline comercial y automatizar tareas repetitivas en ventas.",
     "color": "from-emerald-50 to-teal-100",
     "category": "Electivas",
-    "link": "https://app.aluracursos.com/formaciones"
+    "link": "https://app.aluracursos.com/formacao-ia-para-ventas-y-comercial-g11-one"
   },
   {
     "id": "t2_marketing",
@@ -359,7 +359,7 @@ export const formationsES = [
     "recommendation": "Ideal para maximizar la velocidad y la calidad de producción de contenido con asistentes inteligentes.",
     "color": "from-pink-50 to-rose-100",
     "category": "Electivas",
-    "link": "https://app.aluracursos.com/formaciones"
+    "link": "https://app.aluracursos.com/formacao-ia-para-marketing-y-contenido-g11-one"
   },
   {
     "id": "t3_rh",
@@ -436,7 +436,7 @@ export const formationsES = [
     "recommendation": "Perfecta para modernizar la gestión de talento con automatizaciones y análisis predictivos.",
     "color": "from-amber-50 to-orange-100",
     "category": "Electivas",
-    "link": "https://app.aluracursos.com/formaciones"
+    "link": "https://app.aluracursos.com/formacao-ia-para-rr-hh-g11-one"
   },
   {
     "id": "t4_financas",
@@ -529,7 +529,7 @@ export const formationsES = [
     "recommendation": "Recomendada para eliminar procesos manuales en hojas de cálculo y acelerar análisis operativos.",
     "color": "from-cyan-50 to-sky-100",
     "category": "Electivas",
-    "link": "https://app.aluracursos.com/formaciones"
+    "link": "https://app.aluracursos.com/formacao-ia-para-finanzas-y-operaciones-g11-one"
   }
 ];
 
