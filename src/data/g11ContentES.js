@@ -20,7 +20,7 @@ export const formationsES = [
       {
         "title": "Alfabetización en IA: Competencias esenciales y dominio crítico",
         "hours": 6,
-        "url": "https://cursos.alura.com.br/course/letramento-em-ia-competencias-essenciais-dominio-critico",
+        "url": "https://app.aluracursos.com/course/alfabetizacion-en-ia-competencias-esenciales-pensamiento-critico",
         "tool": "ChatGPT / LLMs",
         "tags": [
           "ChatGPT",
@@ -38,7 +38,7 @@ export const formationsES = [
       {
         "title": "Entienda cómo aplicar el Canvas AI EN LA PRÁCTICA",
         "hours": 1,
-        "url": "https://www.youtube.com/watch?v=EBiAN7vdbUw",
+        "url": "https://youtu.be/8PNbckw9RoQ",
         "tool": "AI Canvas (StartSe)",
         "tags": [
           "AI Canvas (StartSe)"
@@ -50,7 +50,7 @@ export const formationsES = [
       {
         "title": "IA en el trabajo: Productividad con asistentes y agentes",
         "hours": 6,
-        "url": "https://cursos.alura.com.br/course/ia-no-trabalho-produtividade-com-assistentes-e-agentes",
+        "url": "https://app.aluracursos.com/course/ia-productividad-con-asistentes-agentes",
         "tool": "ChatGPT (Asistentes/Agentes, Code Interpreter)",
         "tags": [
           "ChatGPT (Asistentes",
@@ -68,7 +68,7 @@ export const formationsES = [
         ]
       }
     ],
-    "recommendation": "Ruta de entrada obligatoria para fundamentar conceptos de IA, uso de Canvas AI y productividad con asistentes.",
+    "recommendation": "Ruta de entrada recomendada para fundamentar conceptos de IA, uso de Canvas AI y productividad con asistentes.",
     "color": "from-slate-50 to-slate-100",
     "category": "Generales",
     "link": "https://app.aluracursos.com/formacao-mindset-y-estrategia-g11-one"
@@ -93,7 +93,7 @@ export const formationsES = [
       {
         "title": "Toma de decisiones con IA: Optimizando estrategias con datos",
         "hours": 10,
-        "url": "https://cursos.alura.com.br/course/tomada-decisao-ia-otimizando-estrategias-dados",
+        "url": "https://app.aluracursos.com/course/toma-decisiones-con-ia-optimizando-estrategias-datos",
         "tool": "ChatGPT",
         "tags": [
           "ChatGPT"
@@ -109,7 +109,7 @@ export const formationsES = [
       {
         "title": "Liderazgo en la era de la IA: Fundamentos y visión estratégica",
         "hours": 10,
-        "url": "https://cursos.alura.com.br/course/lideranca-na-era-ia",
+        "url": "https://app.aluracursos.com/course/liderazgo-en-la-era-ia",
         "tool": "ChatGPT + Tools No-code/Low-code (uso genérico)",
         "tags": [
           "ChatGPT",
@@ -129,7 +129,7 @@ export const formationsES = [
       {
         "title": "Trabajando con datos: Fundamentos del análisis de datos",
         "hours": 6,
-        "url": "https://cursos.alura.com.br/course/trabalhando-dados-fundamentos-analise-dados",
+        "url": "https://app.aluracursos.com/course/trabajando-con-datos-fundamentos-analisis-datos",
         "tool": "NA",
         "tags": [
           "IA",
@@ -169,7 +169,7 @@ export const formationsES = [
       {
         "title": "Gobernanza de Inteligencia Artificial: Fundamentos, riesgos y buenas prácticas",
         "hours": 7,
-        "url": "https://cursos.alura.com.br/course/fundamentos-governanca-ia",
+        "url": "https://www.aluracursos.com/curso-online-gobernanza-ia-fundamentos-riesgos-buenas-practicas",
         "tool": "NA",
         "tags": [
           "IA",
@@ -187,7 +187,7 @@ export const formationsES = [
       {
         "title": "Ética en Inteligencia Artificial: Mitigando sesgos y garantizando transparencia",
         "hours": 6,
-        "url": "https://cursos.alura.com.br/course/etica-gestao-vieses-regulacao-ia",
+        "url": "https://app.aluracursos.com/course/etica-en-ia-mitigando-sesgos-garantizando-transparencia",
         "tool": "NA",
         "tags": [
           "IA",
@@ -229,7 +229,7 @@ export const formationsES = [
       {
         "title": "Inteligencia Artificial: Personalice estrategias de ventas con ChatGPT",
         "hours": 6,
-        "url": "https://cursos.alura.com.br/course/inteligencia-artificial-estrategias-vendas-chatgpt",
+        "url": "https://app.aluracursos.com/course/personalizando-estrategias-ventas-chatgpt",
         "tool": "ChatGPT",
         "tags": [
           "ChatGPT"
@@ -247,7 +247,7 @@ export const formationsES = [
       {
         "title": "E-mail marketing: Automatización y workflows con IA",
         "hours": 6,
-        "url": "https://cursos.alura.com.br/course/email-marketing-automacao-workflows-com-ia",
+        "url": "https://app.aluracursos.com/course/email-marketing-automatizacion-workflows-ia",
         "tool": "ChatGPT + plataforma de CRM (ex.: RD Station/Mailchimp/Brevo)",
         "tags": [
           "ChatGPT",
@@ -265,7 +265,7 @@ export const formationsES = [
       {
         "title": "CRM, automatizaciones e IA: Automatice procesos de ventas con inteligencia artificial",
         "hours": 6,
-        "url": "https://cursos.alura.com.br/course/personalizacao-gemini",
+        "url": "https://app.aluracursos.com/course/crm-automatizaciones-ia-automatice-procesos-ventas-con-inteligencia-artificial",
         "tool": "Gemini",
         "tags": [
           "Gemini"
@@ -306,7 +306,7 @@ export const formationsES = [
       {
         "title": "Producción de contenido con IA: Cree asistentes en Gemini para escalar su comunicación multicanal",
         "hours": 14,
-        "url": "https://cursos.alura.com.br/course/producao-de-conteudo-com-inteligencia-artificial-e-gemini",
+        "url": "https://app.aluracursos.com/course/produccion-de-contenido-con-inteligencia-artificial-y-gemini",
         "tool": "Gemini (Gems) + NanoBanana 2 (generación de imágenes)",
         "tags": [
           "Gemini (Gems)",
@@ -325,7 +325,7 @@ export const formationsES = [
       {
         "title": "Inteligencia Artificial: Gestión de redes sociales",
         "hours": 8,
-        "url": "https://cursos.alura.com.br/course/inteligencia-artificial-gestao-midias-sociais",
+        "url": "https://app.aluracursos.com/course/inteligencia-artificial-gestion-redes-sociales",
         "tool": "ChatGPT",
         "tags": [
           "ChatGPT"
@@ -340,9 +340,9 @@ export const formationsES = [
         ]
       },
       {
-        "title": "Redes Sociales: Construyendo un agente GPT para su negocio",
+        "title": "Marketing: Construyendo agentes con ChatGPT Work y Skills",
         "hours": 8,
-        "url": "https://cursos.alura.com.br/course/midias-sociais-construindo-agente-gpt-seu-negocio",
+        "url": "https://app.aluracursos.com/course/marketing-construyendo-agentes-con-chatgpt-work-skills/",
         "tool": "ChatGPT (Custom GPTs)",
         "tags": [
           "ChatGPT (Custom GPTs)"
@@ -381,7 +381,7 @@ export const formationsES = [
       {
         "title": "RR.HH. estratégico: Optimizando procesos con IA",
         "hours": 12,
-        "url": "https://cursos.alura.com.br/course/rh-estrategico-otimizando-processos-ia",
+        "url": "https://app.aluracursos.com/course/rr-hh-estrategico-ia-automatizacion-optimizar-procesos",
         "tool": "ChatGPT + Tools No-code/Low-code (chatbots)",
         "tags": [
           "ChatGPT",
@@ -400,7 +400,7 @@ export const formationsES = [
       {
         "title": "Inteligencia Artificial en RRHH: Creando Agentes con ChatGPT",
         "hours": 8,
-        "url": "https://cursos.alura.com.br/course/inteligencia-artificial-rh-impactando-dia-a-dia-area-cuida-pessoas",
+        "url": "https://app.aluracursos.com/course/inteligencia-artificial-en-rh-creando-agentes-con-chatgpt",
         "tool": "ChatGPT",
         "tags": [
           "ChatGPT"
@@ -417,7 +417,7 @@ export const formationsES = [
       {
         "title": "People Analytics: De la recolección de datos a la IA aplicada en RR.HH.",
         "hours": 8,
-        "url": "https://cursos.alura.com.br/course/people-analytics-para-rh-analises-diagnosticas-e-descritivas",
+        "url": "https://app.aluracursos.com/course/people-analytics-para-rh-analisis-y-diagnostico",
         "tool": "Excel + IA generativa",
         "tags": [
           "Excel",
@@ -458,7 +458,7 @@ export const formationsES = [
       {
         "title": "Análisis financiero eficiente: automatiza Excel con Power Query y Power Pivot",
         "hours": 8,
-        "url": "https://cursos.alura.com.br/course/analise-financeira-eficiente-automatize-excel-power-query-power-pivot?preRequirementFrom=automatizacao-ia-criando-relatorios-financeiros-excel-copilot",
+        "url": "https://app.aluracursos.com/course/analisis-financiero-eficiente-automatiza-excel-power-query-power-pivot",
         "tool": "Excel (Power Query, Power Pivot, VBA) + Copilot",
         "tags": [
           "Excel (Power Query",
@@ -478,7 +478,7 @@ export const formationsES = [
       {
         "title": "Claude para Análisis de Datos: Prompts, integraciones y automatizaciones",
         "hours": 8,
-        "url": "https://cursos.alura.com.br/course/claude-para-analistas-de-dados-conectores-arquivos-e-entregaveis-inteligentes",
+        "url": "https://app.aluracursos.com/course/claude-para-analisis-de-datos-prompts-integraciones-y-automatizaciones",
         "tool": "Claude",
         "tags": [
           "Claude"
@@ -495,7 +495,7 @@ export const formationsES = [
       {
         "title": "Gestión de Procesos: Mapeo y automatización con Lean y RPA",
         "hours": 8,
-        "url": "https://cursos.alura.com.br/course/gestao-processos-mapeamento-automacao-lean-rpa",
+        "url": "https://app.aluracursos.com/course/gestion-procesos-mapeamiento-automatizacion-lean-rpa",
         "tool": "NA",
         "tags": [
           "IA",
@@ -512,7 +512,7 @@ export const formationsES = [
       {
         "title": "Make: Automatizando respuestas de clientes",
         "hours": 1,
-        "url": "https://cursos.alura.com.br/course/pdc-dados-1",
+        "url": "https://app.aluracursos.com/course/automatizando-respuestas-clientes",
         "tool": "Make (Integromat)",
         "tags": [
           "Make (Integromat)"

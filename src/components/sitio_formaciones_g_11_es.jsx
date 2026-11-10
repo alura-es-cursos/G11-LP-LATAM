@@ -295,22 +295,18 @@ export default function FormacionesG11SiteES() {
                 </div>
               </div>
 
-              {/* Right reserved space placeholder */}
+              {/* Entrega del challenge */}
               <div className={`md:col-span-7 p-6 sm:p-8 flex items-center justify-center ${
                 isDark ? 'bg-slate-900/40' : 'bg-slate-50'
               }`}>
-                <div className={`w-full rounded-xl border-2 border-dashed p-8 text-center ${
+                <div className={`w-full rounded-xl border p-8 text-center ${
                   isDark ? 'border-slate-700 bg-slate-950/30' : 'border-slate-300 bg-white'
                 }`}>
-                  <span className={`text-xs font-bold tracking-widest uppercase ${isDark ? 'text-slate-500' : 'text-slate-400'}`}>
-                    ESPACIO RESERVADO
-                  </span>
-                  <h4 className={`mt-2 text-lg font-bold ${isDark ? 'text-slate-200' : 'text-slate-800'}`}>
-                    Aquí se insertará la información del challenge
-                  </h4>
-                  <p className={`mt-2 text-xs max-w-md mx-auto ${isDark ? 'text-slate-400' : 'text-slate-500'}`}>
-                    Agrega más adelante el objetivo del proyecto, criterios de entrega, fechas, tecnologías sugeridas, rúbrica de evaluación y ejemplos de entregables.
-                  </p>
+                  <h4 className="text-lg font-bold">Entrega del Challenge Taranis Black</h4>
+                  <p className="mt-2 text-sm">Consulta las instrucciones para entregar tu proyecto individual en Alura Latam.</p>
+                  <a href="https://app.aluracursos.com/course/entrega-del-challenge-taranis-black" target="_blank" rel="noopener noreferrer" className="mt-4 inline-flex items-center gap-2 rounded-lg bg-indigo-600 px-4 py-2 font-semibold text-white hover:bg-indigo-500">
+                    Acceder al challenge <ExternalLink className="h-4 w-4" aria-hidden="true" />
+                  </a>
                 </div>
               </div>
             </div>
@@ -517,19 +513,10 @@ export default function FormacionesG11SiteES() {
                                         ))}
                                       </ul>
 
-                                      {/* Botón de curso deshabilitado temporalmente */}
-                                      <button
-                                        type="button"
-                                        disabled
-                                        aria-disabled="true"
-                                        title="Enlace temporalmente deshabilitado"
-                                        className={`mt-3 inline-flex items-center space-x-1.5 text-xs font-semibold opacity-50 cursor-not-allowed select-none transition-colors ${
-                                          isDark ? 'text-slate-500 hover:text-slate-500' : 'text-slate-400 hover:text-slate-400'
-                                        }`}
-                                      >
-                                        <span>Ver detalles del curso</span>
-                                        <ExternalLink className="h-3 w-3" />
-                                      </button>
+                                      <a href={course.url} target="_blank" rel="noopener noreferrer"
+                                        className={`mt-3 inline-flex items-center gap-2 text-sm font-semibold underline ${isDark ? 'text-indigo-300' : 'text-indigo-700'}`}>
+                                        Ver detalles del curso <ExternalLink className="h-4 w-4" aria-hidden="true" />
+                                      </a>
                                     </motion.div>
                                   )}
                                 </AnimatePresence>
@@ -556,6 +543,16 @@ export default function FormacionesG11SiteES() {
               );
             })}
           </div>
+        </div>
+      </section>
+
+      <section id="certificacion" aria-labelledby="oci-title" className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+        <p className="text-xs font-bold uppercase tracking-widest">Preparación para la certificación</p>
+        <h2 id="oci-title" className="mt-2 text-2xl font-bold">Oracle Cloud Infrastructure AI Foundations Associate</h2>
+        <p className="mt-3">Empieza por los fundamentos de IA y continúa con los servicios y soluciones de Oracle Cloud Infrastructure.</p>
+        <div className="mt-5 flex flex-wrap gap-4">
+          <a href="https://app.aluracursos.com/course/oci-ai-foundations" target="_blank" rel="noopener noreferrer" className="rounded-lg bg-indigo-600 px-4 py-2 font-semibold text-white hover:bg-indigo-500">1. Fundamentos de IA</a>
+          <a href="https://app.aluracursos.com/course/certificacion-oci-ai-foundations-servicios-soluciones-ia" target="_blank" rel="noopener noreferrer" className="rounded-lg bg-indigo-600 px-4 py-2 font-semibold text-white hover:bg-indigo-500">2. Servicios y soluciones de IA</a>
         </div>
       </section>
 
